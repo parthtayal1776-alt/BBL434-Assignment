@@ -1,0 +1,11 @@
+BamHI_site, BamHI
+HindIII_site, HindIII
+PstI_site, PstI
+SphI_site, SphI
+SalI_site, SalI
+XbaI_site, XbaI
+KpnI_site, KpnI
+SacI_site, SacI
+SmaI_site, SmaI
+AmpR_gene, Ampicillin
+lacZ_alpha, Blue_White_Selection
